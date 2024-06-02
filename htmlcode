@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile App Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img  src="image2.jpg" alt="Mobile Image" class="mobile-i1">
+        <nav class="nav">
+            <a href="#">Home</a>
+            <a href="#">Login</a>
+            <a href="#">About</a>
+        </nav>
+        <h1>Welcome To Mobile App</h1>
+    </header>
+    <section class="content">
+        <h2>Experience the Future of Mobile Technology</h2>
+        <p>Our app provides seamless connectivity, intuitive design, and cutting-edge features that keep you ahead of the curve. Join us in revolutionizing the way you interact with the digital world.</p>
+        <a href="#" class="cta-button">Download Now</a>
+    </section>
+    <section class="sign-up">
+        <h2>Sign Up for Updates</h2>
+        <form action="#" method="post">
+            <input type="text" placeholder="Enter your name">
+            <input type="email" placeholder="Enter your email">
+            <input type="tel" placeholder="Enter your phone number">
+            <button type="submit">Sign Up</button>
+        </form>
+        <div>
+            <p class="hello1">
+                <h4>About</h4>
+                A mobile phone makes our lives easier. It can be used for work/business purposes, attending online classes, entertainment, or just talking with friends and family members. Modern smartphones have many useful features. They also have a high-speed internet connection that helps us get what we need quickly and easily.
+
+Mobile phones can be used as an alternative to laptops and desktops because they are much more compact and lightweight than their counterparts and are portable.
+
+Mobile phones have made communication more accessible than ever before. Mobile phones have encouraged a whole new way of doing things, including taking photos, videos, attending online classes, etc. The latest news and all kinds of information that help in knowledge building are available at students’ fingertips. Mobile phones these days have the capability to do nearly everything computers can do. Students use mobile phones to write assignments and create presentations. Most mobile phones have advanced video and picture editing capabilities that allow children to showcase their creative talents.
+            </p>
+            <a href="#">Contact</a> <p>abcd@gmail.com</p>
+        </div>
+    </section>
+</body>
+</html>
